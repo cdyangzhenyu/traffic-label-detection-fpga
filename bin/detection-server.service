@@ -1,0 +1,12 @@
+[Unit]
+Description = Detection Server Service
+After = network.target
+
+[Service]
+Type = simple
+User = root
+Group = root
+ExecStart = /usr/local/bin/detection-server/detection_server
+
+[Install]
+WantedBy = multi-user.target

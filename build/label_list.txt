@@ -1,0 +1,6 @@
+red
+green
+yellow
+left
+right
+stop

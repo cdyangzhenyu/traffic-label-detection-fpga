@@ -1,0 +1,12 @@
+{
+	"model":"../models/mobilenet-ssd-640",
+	"combined_model":true,
+    "video_device":"/dev/video0",
+	"input_width":640,
+	"input_height":640,
+	"image":"../models/mobilenet-ssd-640/1.jpg",
+	"mean":[127.5,127.5,127.5],
+	"scale":[0.007843,0.007843,0.007843],
+	"format":"BGR",
+	"threshold":0.2
+}

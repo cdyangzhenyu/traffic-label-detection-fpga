@@ -1,0 +1,12 @@
+{
+	"model":"../models/ssd_mobilenet_v1_voc",
+	"combined_model":true,
+    "video_device":"/dev/video0",
+	"input_width":300,
+	"input_height":300,
+	"image":"../models/ssd_mobilenet_v1_voc/dog.jpg",
+	"mean":[104,117,124],
+	"scale":[1, 1, 1],
+	"format":"BGR",
+	"threshold":0.3
+}

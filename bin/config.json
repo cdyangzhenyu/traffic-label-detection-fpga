@@ -1,0 +1,14 @@
+{
+	"model":"./",
+	"combined_model":true,
+        "video_device":"/dev/video0",
+	"input_width":320,
+	"input_height":320,
+	"labels":"label_list.txt",
+	"image":"test.jpg",
+	"mean":[123.675, 116.28, 103.53],
+        "scale":[0.0171248, 0.017507, 0.0174292],
+	"format":"RGB",
+	"threshold":0.5,
+	"network_type":"YOLOV3"
+}

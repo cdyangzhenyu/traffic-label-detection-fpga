@@ -1,0 +1,13 @@
+{
+	"model":"../models/yolov3_bak",
+	"combined_model":true,
+    "video_device":"/dev/video0",
+	"input_width":608,
+	"input_height":608,
+	"image":"../models/yolov3/1.jpg",
+	"mean":[123.675, 116.28, 103.53],
+    "scale":[0.0171248, 0.017507, 0.0174292],
+	"format":"RGB",
+	"threshold":0.3,
+	"network_type":"YOLOV3"
+}

@@ -1,0 +1,13 @@
+{
+	"model":"../models/yolov3",
+	"combined_model":true,
+    "video_device":"/dev/video0",
+	"input_width":320,
+	"input_height":320,
+	"image":"../models/yolov3/zangdian-29.jpg",
+	"mean":[0.485, 0.456, 0.406],
+    "scale":[0.229, 0.224, 0.225],
+	"format":"RGB",
+	"threshold":0.5,
+	"network_type":"YOLOV3"
+}

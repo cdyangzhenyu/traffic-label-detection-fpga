@@ -1,0 +1,3 @@
+/home/root/workspace/PaddleLiteSample/detection-server/build/CMakeFiles/rebuild_cache.dir
+/home/root/workspace/PaddleLiteSample/detection-server/build/CMakeFiles/detection_server.dir
+/home/root/workspace/PaddleLiteSample/detection-server/build/CMakeFiles/edit_cache.dir
